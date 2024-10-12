@@ -1,9 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Md.Nazrul Islam Patowary</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=160&section=header&text=Md.Nazrul+Islam+Patowary&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Mobile+App+Development(Flutter);Software+Engineer;Flutter+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Hello,+My+Name+Is+Md.Nazrul+Islam;I+am+passionate+Software+Developer;Specializing+Mobile+App+Development;I+EXPERTISE+>+3+YEARS+IN+PROGRAMMING" alt="Typing SVG" />
 </p>
 
 <div align="center">
