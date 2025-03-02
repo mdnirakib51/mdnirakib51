@@ -14,23 +14,22 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/md-nazrul-islam-rakib-aab643201/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=Md.Nazrul+Islam+Rakib&size=square" alt="Md.Nazrul Islam Patowary">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmd-nazrul-islam-rakib-aab643201%2F&subtitle=Md.Nazrul+Islam+Rakib&size=square" alt="Md.Nazrul Islam Patowary">
       </a>
     </td>
     <td align="center">
       <a href="https://www.facebook.com/mdni.rakib.33/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=Md.NI+Rakib&size=square" alt="Md.Nazrul Islam Patowary">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fmdni.rakib.33&subtitle=Md.NI+Rakib&size=square" alt="Md.Nazrul Islam Patowary">
       </a>
-    </td>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/md_nazrul_islam_rakib/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=Md.NI+Rakib&size=square" alt="Md.Nazrul Islam Patowary">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmd_nazrul_islam_rakib%2F&subtitle=Md.NI+Rakib&size=square" alt="Md.Nazrul Islam Patowary">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/KenanGain" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2Fmdnirakib8987&size=square" alt="Md.Nazrul Islam Patowary">
+      <a href="https://github.com/mdnirakib51" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fmdnirakib51&subtitle=%2Fmdnirakib51&size=square" alt="Md.Nazrul Islam Patowary">
       </a>
     </td>
   </tr>
@@ -45,27 +44,28 @@ I am a consummate professional, who is efficient, helpful, and exacting in every
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=mdnirakib8987&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mdnirakib51&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnirakib8987&custom_title=Nazrul's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnirakib51&custom_title=Nazrul's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnirakib8987&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnirakib51&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdnirakib8987&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdnirakib51&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdnirakib8987&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdnirakib51&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdnirakib8987&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Nazrul's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=mdnirakib51&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Nazrul's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnirakib8987&theme=highcontrast&hide_border=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnirakib51&theme=highcontrast&hide_border=true">
+
