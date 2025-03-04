@@ -25,7 +25,7 @@
   <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/firebase.png" width="50px"/></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/30317822?s=200&v=4" width="50px"/></td>
-    <td align="center"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-bloc-state-management-library-framework-logo-shadow-tal-revivo.png" width="50px"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" width="80px"/></td>
     <td align="center"><img src="https://img.icons8.com/ios-filled/50/system-task.png" width="50px"/></td>
   </tr>
   <tr>
