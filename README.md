@@ -1,78 +1,76 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=160&section=header&text=Md.Nazrul+Islam+Patowary&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=Hello,+I'm+Md.Nazrul+Islam;A+Passionate+Flutter+Developer;With+Strong+Expertise+in+Mobile+App+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Hello,+My+Name+Is+Md.Nazrul+Islam;I+am+passionate+Software+Developer;Specializing+Mobile+App+Development;I+EXPERTISE+>+3+YEARS+IN+PROGRAMMING" alt="Typing SVG" />
 </p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1n7nOr-glguZCRIjVOYkenBRPCMSDx8_x/view?usp=sharing" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Md.Nazrul+Islam+Patowary&size=square" alt="Md.Nazrul Islam Patowary">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/md-nazrul-islam-rakib-aab643201/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmd-nazrul-islam-rakib-aab643201%2F&subtitle=Md.Nazrul+Islam+Rakib&size=square" alt="Md.Nazrul Islam Patowary">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/mdni.rakib.33/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fmdni.rakib.33&subtitle=Md.NI+Rakib&size=square" alt="Md.Nazrul Islam Patowary">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/md_nazrul_islam_rakib/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmd_nazrul_islam_rakib%2F&subtitle=Md.NI+Rakib&size=square" alt="Md.Nazrul Islam Patowary">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mdnirakib51" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fmdnirakib51&subtitle=%2Fmdnirakib51&size=square" alt="Md.Nazrul Islam Patowary">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
 ## 🚀 Main skills:
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50px"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50px"/></td>
-  </tr>
-  <tr>
-    <td align="center">Flutter</td>
-    <td align="center">Dart</td>
-  </tr>
-</table>
-
----
-
-## 💻 Comfortable with:
-<table>
-  <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/firebase.png" width="50px"/></td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/30317822?s=200&v=4" width="50px"/></td>
-    <td align="center"><img src="https://pub.dev/packages/flutter_bloc/versions/9.1.0/gen-res/gen/logo.webp" width="80px"/></td>
-    <td align="center"><img src="https://img.icons8.com/ios-filled/50/system-task.png" width="50px"/></td>
-  </tr>
-  <tr>
-    <td align="center">Firebase</td>
-    <td align="center">GetX</td>
-    <td align="center">Bloc</td>
-    <td align="center">MVVM & MVC</td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
+<img src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
+<img src="https://img.icons8.com/fluency/48/firebase.png" alt="firebase"/>
+<img src="https://img.icons8.com/color/48/architecture.png" alt="architecture"/> <!-- For MVVM & MVC -->
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-getx-a-powerful-state-management-solution-for-flutter-logo-color-tal-revivo.png" alt="getx"/>
+<img src="https://img.icons8.com/fluency/48/console.png" alt="bloc"/>
+<img src="https://img.icons8.com/fluency/48/source-code.png" alt="riverpod"/>
+</p>
 
 ---
 
 ## ⚒️ Tools:
-<table>
-  <tr>
-    <td align="center"><img src="https://img.icons8.com/fluency/48/android-studio--v3.png" width="50px"/></td>
-    <td align="center"><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="50px"/></td>
-    <td align="center"><img src="https://img.icons8.com/ios-glyphs/50/github.png" width="50px"/></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/figma.png" width="50px"/></td>
-    <td align="center"><img src="https://img.icons8.com/ios-glyphs/50/slack.png" width="50px"/></td>
-  </tr>
-  <tr>
-    <td align="center">Android Studio</td>
-    <td align="center">VS Code</td>
-    <td align="center">GitHub</td>
-    <td align="center">Figma</td>
-    <td align="center">Slack</td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://img.icons8.com/fluency/48/android-studio--v3.png" alt="android studio"/>
+<img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="vscode"/>
+<img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="github"/>
+<img src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img src="https://img.icons8.com/fluency/48/firebase.png" alt="firebase"/>
+<img src="https://img.icons8.com/color/48/figma.png" alt="figma"/>
+<img src="https://img.icons8.com/color/48/slack-new.png" alt="slack"/>
+</p>
 
 ---
 
-## 🌟 Soft Skills:
-<table>
-  <tr>
-    <td align="center"><img src="https://img.icons8.com/fluency/48/communication.png" width="50px"/></td>
-    <td align="center"><img src="https://img.icons8.com/fluency/48/teamwork.png" width="50px"/></td>
-    <td align="center"><img src="https://img.icons8.com/fluency/48/solve.png" width="50px"/></td>
-    <td align="center"><img src="https://img.icons8.com/fluency/48/time-management.png" width="50px"/></td>
-  </tr>
-  <tr>
-    <td align="center">Communication</td>
-    <td align="center">Team Work</td>
-    <td align="center">Problem Solving</td>
-    <td align="center">Time Management</td>
-  </tr>
-</table>
+## 💼 Soft Skills:
+<p align="center">
+<img src="https://img.icons8.com/ios/50/communication.png" alt="communication"/>
+<img src="https://img.icons8.com/external-outline-juicy-fish/48/external-teamwork-agile-outline-outline-juicy-fish.png" alt="teamwork"/>
+<img src="https://img.icons8.com/ios/50/solve.png" alt="problem solving"/>
+<img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/48/external-time-management-project-management-flatart-icons-lineal-color-flatarticons.png" alt="time management"/>
+</p>
 
 ---
 
