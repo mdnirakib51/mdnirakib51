@@ -36,7 +36,6 @@
 </table>
 </div>
 
----
 ## 🚀 About Me
 
 I am a consummate professional, who is efficient, helpful, and exacting in everything that I do. I will treat every project with the same dedication and integrity as if it were my very own. I pride myself on writing clean code that is easily readable for any future modifications. I am positive, friendly, and a very responsible Developer.
@@ -52,8 +51,6 @@ I am a consummate professional, who is efficient, helpful, and exacting in every
 <img src="https://img.icons8.com/fluency/48/source-code.png" alt="riverpod"/>
 </p>
 
----
-
 ## ⚒️ Tools:
 <p align="center">
 <img src="https://img.icons8.com/fluency/48/android-studio--v3.png" alt="android studio"/>
@@ -65,8 +62,6 @@ I am a consummate professional, who is efficient, helpful, and exacting in every
 <img src="https://img.icons8.com/color/48/slack-new.png" alt="slack"/>
 </p>
 
----
-
 ## 💼 Soft Skills:
 <p align="center">
 <img src="https://img.icons8.com/ios/50/communication.png" alt="communication"/>
@@ -74,8 +69,6 @@ I am a consummate professional, who is efficient, helpful, and exacting in every
 <img src="https://img.icons8.com/ios/50/solve.png" alt="problem solving"/>
 <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/48/external-time-management-project-management-flatart-icons-lineal-color-flatarticons.png" alt="time management"/>
 </p>
-
----
 
 ## 📊 GitHub Stats:
 <div align="center">
@@ -93,8 +86,6 @@ I am a consummate professional, who is efficient, helpful, and exacting in every
 <img src="https://github-readme-stats.vercel.app/api?username=mdnirakib51&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Nazrul's GitHub stats">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnirakib51&theme=highcontrast&hide_border=true">
 </div>
-
----
 
 ## 🔗 Connect with me:
 <p align="left">
