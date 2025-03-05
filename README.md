@@ -36,22 +36,26 @@
 </table>
 </div>
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-I am a consummate professional, who is efficient, helpful, and exacting in everything that I do. I will treat every project with the same dedication and integrity as if it were my very own. I pride myself on writing clean code that is easily readable for any future modifications. I am positive, friendly, and a very responsible Developer.
+<p align="center">
+I am a consummate professional, who is efficient, helpful, and exacting in everything that I do. I will treat every project with the same dedication and integrity as if it were my very own.<br>
+I pride myself on writing clean code that is easily readable for any future modifications.<br>
+I am positive, friendly, and a very responsible Developer.
+</p>
 
-## 🚀 Main skills:
+<h2 align="center">🚀 Main skills:</h2>
 <p align="center">
 <img src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
 <img src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
 <img src="https://img.icons8.com/fluency/48/firebase.png" alt="firebase"/>
-<img src="https://img.icons8.com/color/48/architecture.png" alt="architecture"/> <!-- For MVVM & MVC -->
+<img src="https://img.icons8.com/color/48/architecture.png" alt="architecture"/>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-getx-a-powerful-state-management-solution-for-flutter-logo-color-tal-revivo.png" alt="getx"/>
 <img src="https://img.icons8.com/fluency/48/console.png" alt="bloc"/>
 <img src="https://img.icons8.com/fluency/48/source-code.png" alt="riverpod"/>
 </p>
 
-## ⚒️ Tools:
+<h2 align="center">⚒️ Tools:</h2>
 <p align="center">
 <img src="https://img.icons8.com/fluency/48/android-studio--v3.png" alt="android studio"/>
 <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="vscode"/>
@@ -62,7 +66,7 @@ I am a consummate professional, who is efficient, helpful, and exacting in every
 <img src="https://img.icons8.com/color/48/slack-new.png" alt="slack"/>
 </p>
 
-## 💼 Soft Skills:
+<h2 align="center">💼 Soft Skills:</h2>
 <p align="center">
 <img src="https://img.icons8.com/ios/50/communication.png" alt="communication"/>
 <img src="https://img.icons8.com/external-outline-juicy-fish/48/external-teamwork-agile-outline-outline-juicy-fish.png" alt="teamwork"/>
@@ -70,7 +74,7 @@ I am a consummate professional, who is efficient, helpful, and exacting in every
 <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/48/external-time-management-project-management-flatart-icons-lineal-color-flatarticons.png" alt="time management"/>
 </p>
 
-## 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Stats:</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mdnirakib51&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
@@ -78,17 +82,15 @@ I am a consummate professional, who is efficient, helpful, and exacting in every
   <br>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnirakib51&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdnirakib51&theme=highcontrast&hide_border=true" alt="Repos Per Language"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdnirakib51&theme=highcontrast&hide_border=true" alt="Most Commit Language"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnirakib51&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdnirakib51&theme=highcontrast&hide_border=true"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdnirakib51&theme=highcontrast&hide_border=true"></td>
   </tr>
 </table>
-<img src="https://github-readme-stats.vercel.app/api?username=mdnirakib51&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Nazrul's GitHub stats">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnirakib51&theme=highcontrast&hide_border=true">
 </div>
 
-## 🔗 Connect with me:
-<p align="left">
+<h2 align="center">🔗 Connect with me:</h2>
+<p align="center">
 <a href="https://www.linkedin.com/in/mdnirakib51/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:md.rakib3248@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/mdnirakib51"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
