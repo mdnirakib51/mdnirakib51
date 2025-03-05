@@ -39,12 +39,10 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-I am a consummate professional, who is efficient, helpful, and exacting in everything that I do. I will treat every project with the same dedication and integrity as if it were my very own.<br>
-I pride myself on writing clean code that is easily readable for any future modifications.<br>
-I am positive, friendly, and a very responsible Developer.
+I am a consummate professional, who is efficient, helpful, and exacting in everything that I do. I will treat every project with the same dedication and integrity as if it were my very own. I pride myself on writing clean code that is easily readable for any future modifications. I am positive, friendly, and a very responsible Developer.
 </p>
 
-<h2 align="center">🚀 Main skills:</h2>
+<h2 align="center">🚀 Main skills</h2>
 <p align="center">
 <img src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
 <img src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
@@ -55,7 +53,7 @@ I am positive, friendly, and a very responsible Developer.
 <img src="https://img.icons8.com/fluency/48/source-code.png" alt="riverpod"/>
 </p>
 
-<h2 align="center">⚒️ Tools:</h2>
+<h2 align="center">⚒️ Tools</h2>
 <p align="center">
 <img src="https://img.icons8.com/fluency/48/android-studio--v3.png" alt="android studio"/>
 <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="vscode"/>
@@ -66,7 +64,7 @@ I am positive, friendly, and a very responsible Developer.
 <img src="https://img.icons8.com/color/48/slack-new.png" alt="slack"/>
 </p>
 
-<h2 align="center">💼 Soft Skills:</h2>
+<h2 align="center">💼 Soft Skills</h2>
 <p align="center">
 <img src="https://img.icons8.com/ios/50/communication.png" alt="communication"/>
 <img src="https://img.icons8.com/external-outline-juicy-fish/48/external-teamwork-agile-outline-outline-juicy-fish.png" alt="teamwork"/>
@@ -74,7 +72,7 @@ I am positive, friendly, and a very responsible Developer.
 <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/48/external-time-management-project-management-flatart-icons-lineal-color-flatarticons.png" alt="time management"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats:</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mdnirakib51&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
@@ -89,7 +87,7 @@ I am positive, friendly, and a very responsible Developer.
 </table>
 </div>
 
-<h2 align="center">🔗 Connect with me:</h2>
+<h2 align="center">🔗 Connect with me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/mdnirakib51/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:md.rakib3248@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
