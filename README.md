@@ -64,14 +64,6 @@ I am a consummate professional, who is efficient, helpful, and exacting in every
 <img src="https://img.icons8.com/color/48/slack-new.png" alt="slack"/>
 </p>
 
-<h2 align="center">💼 Soft Skills</h2>
-<p align="center">
-<img src="https://img.icons8.com/ios/50/communication.png" alt="communication"/>
-<img src="https://img.icons8.com/external-outline-juicy-fish/48/external-teamwork-agile-outline-outline-juicy-fish.png" alt="teamwork"/>
-<img src="https://img.icons8.com/ios/50/solve.png" alt="problem solving"/>
-<img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/48/external-time-management-project-management-flatart-icons-lineal-color-flatarticons.png" alt="time management"/>
-</p>
-
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mdnirakib51&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
