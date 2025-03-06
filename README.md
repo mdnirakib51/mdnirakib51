@@ -21,34 +21,20 @@
 ## 🛠️ Tech Stack & Tools
 
 ### **Programming Languages**
-<p align="left">
-  <img src="https://img.icons8.com/color/48/dart.png" alt="Dart"/>
-  <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/fluency/48/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
-</p>
-
-### **Frameworks & Libraries**
-<p align="left">
-  <img src="https://img.icons8.com/color/48/architecture.png" alt="Software Architecture"/>
-  <img src="https://img.icons8.com/fluency/48/source-code.png" alt="Riverpod"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-getx-a-powerful-state-management-solution-for-flutter-logo-color-tal-revivo.png" alt="GetX"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,javascript" alt="Tech Stack"/>
 </p>
 
 ### **Development Tools**
-<p align="left">
-  <img src="https://img.icons8.com/fluency/48/android-studio--v3.png" alt="Android Studio"/>
-  <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,github,git,figma" alt="Tools"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnirakib51&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mdnirakib51&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnirakib51&custom_title=Nazrul's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
   <br>
@@ -64,12 +50,33 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdnirakib51&theme=onedark&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🎵 Spotify Now Playing
+<p align="center">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+</p>
+
+---
+
+## 🌟 Fun Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" alt="Coding Animation">
+</p>
+
+---
+
 ## 🔗 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mdnirakib51/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:md.rakib3248@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/mdnirakib51"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mdnirakib51/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:md.rakib3248@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/mdnirakib51" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
