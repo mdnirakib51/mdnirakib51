@@ -32,6 +32,8 @@
 
 ---
 
+ <img src="commit_snake.svg"/>
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mdnirakib51&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
